@@ -1,0 +1,45 @@
+body{
+    background-color: aquamarine;
+}
+
+#boxOne{
+    width:200px;
+    height: 200px;
+    border: rgb(0, 0, 0) solid 2px;
+    border-radius: 20px;
+    background-color: green;
+
+}
+
+#boxTwo{
+    width:200px;
+    height: 200px;
+    border: rgb(0, 0, 0) solid 2px;
+    border-radius: 20px;
+    background-color: yellow;
+}
+
+#boxThree{width:200px;
+    height: 200px;
+    border: rgb(0, 0, 0) solid 2px;
+    border-radius: 20px;
+    background-color: red;
+}
+
+#boxFour{width:200px;
+    height: 200px;
+    border: rgb(0, 0, 0) solid 2px;
+    border-radius: 20px;
+    background-color:black;
+}
+
+
+p{
+    text-align: center;
+}
+
+span{
+    border: solid black 1px; 
+    padding: 2px;
+    
+}
